@@ -1,2 +1,2 @@
 # hibernateAndJpa
-Spring project
+Springboot project
